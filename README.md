@@ -37,4 +37,3 @@ The goal was to create a **simple interactive dashboard** in Power BI that analy
 
 ---
 
-## 📂 Repository Structure
